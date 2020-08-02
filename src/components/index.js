@@ -1,3 +1,3 @@
 
 
-export {Display} from "./Display"
+export {RandomStudentSelector} from "./RandomStudentSelector"
